@@ -13,7 +13,7 @@
       <pubDate>Fri, 08 Oct 2021 16:21:33 +0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>#我的第一篇博客</description>
+      <description>#遇到的问题 desktop登不上 解决方案：多次登录，直到登上为之。 安装包的解压安装 解决方案：按照教程一步步操作，准确安装、解压。 修改博客内容 解决方案：定位至Shn/content/posts/my-first-post 并进行修改 将库上传至Github 解决方案：先登录账号，导入public文件夹，检查用户名、邮箱等信息，最后进行上传</description>
     </item>
     
   </channel>
